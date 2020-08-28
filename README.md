@@ -27,8 +27,8 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 Stories written by partners based on this research included:
 
 * Cornish Stuff: [Flu jab complacency in a pandemic](https://cornishstuff.com/2020/08/27/flu-jab-complacency-in-a-pandemic/)
-* Hampshire Live [Half of Hampshire's most vulnerable at risk of flu after failing to get annual jab](https://www.hampshirelive.news/news/hampshire-news/flu-jab-vaccine-coronavirus-hampshire-4460214) *27 August 2020*
-* Hemel Gazette: [Concerns for vulnerable Hertfordshire residents as academics warn of national “complacency” towards the flu](https://www.hemeltoday.co.uk/health/concerns-vulnerable-hertfordshire-residents-academics-warn-national-complacency-towards-flu-2954226) *27 August 2020*
+* Hampshire Live: [Half of Hampshire's most vulnerable at risk of flu after failing to get annual jab](https://www.hampshirelive.news/news/hampshire-news/flu-jab-vaccine-coronavirus-hampshire-4460214) *27 August 2020*
+* Hemel Today: [Concerns for vulnerable Hertfordshire residents as academics warn of national “complacency” towards the flu](https://www.hemeltoday.co.uk/health/concerns-vulnerable-hertfordshire-residents-academics-warn-national-complacency-towards-flu-2954226) *27 August 2020*
 * Leader Live: [Betsi Cadwaldr University Health Board's plea for people to protect themselves against the flu this winter](https://www.leaderlive.co.uk/news/18679273.betsi-cadwaldr-university-health-boards-plea-people-protect-flu-winter/) *27 August 2020*
 * Maidenhead Advertiser [Residents urged to get flu vaccine as data reveals falling take-up rates](https://www.maidenhead-advertiser.co.uk/gallery/maidenhead/161271/residents-urged-to-get-flu-vaccine-as-data-reveals-falling-take-up-rates.html) *28 August 2020*
 * Northants Live: [Northamptonshire's most vulnerable at risk as more than half don't receive annual flu vaccine](https://www.northantslive.news/news/northamptonshire-news/northamptonshire-flu-jab-coronavirus-vaccine-4459824) *27 August 2020*
