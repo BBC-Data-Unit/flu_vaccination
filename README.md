@@ -21,6 +21,8 @@ The data and background methodology released to partners is available here:
 * Wales data: https://drive.google.com/file/d/10wJVLHQx6qpIEY1RqcPmqw0OLpXIfAaT/view?usp=sharing
 * Northern Ireland data: https://docs.google.com/spreadsheets/d/1GhQWPiUx-4FCXuQdkaQ4Cg8zxwpw7nT5Zu7EuwvC1jk/edit?usp=sharing
 
+## Partner usage
+
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
 
@@ -37,6 +39,9 @@ Stories written by partners based on this research included:
 * Wigan Today: [Concern at five-year fall in at-risk Wigan adults getting flu jab](https://www.wigantoday.net/health/concern-five-year-fall-risk-wigan-adults-getting-flu-jab-2954143) *27 August 2020*
 * Yorkshire Post [Concerns about the flu jab must be addressed if Government is to double uptake this winter](https://www.yorkshirepost.co.uk/health/concerns-about-flu-jab-must-be-addressed-if-government-double-uptake-winter-2953827) *27 August 2020*
 
+## Related repos
+
+You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
 
 
 
