@@ -26,6 +26,7 @@ The data and background methodology released to partners is available here:
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
 Stories written by partners based on this research included:
 
+* Bedford Today: [Bedford flu vaccinations for most vulnerable fall to five year low](https://www.bedfordindependent.co.uk/bedford-flu-vaccinations-for-most-vulnerable-fall-to-five-year-low/) *28 August 2020*
 * Cornish Stuff: [Flu jab complacency in a pandemic](https://cornishstuff.com/2020/08/27/flu-jab-complacency-in-a-pandemic/)
 * Hampshire Live: [Half of Hampshire's most vulnerable at risk of flu after failing to get annual jab](https://www.hampshirelive.news/news/hampshire-news/flu-jab-vaccine-coronavirus-hampshire-4460214) *27 August 2020*
 * Hemel Today: [Concerns for vulnerable Hertfordshire residents as academics warn of national “complacency” towards the flu](https://www.hemeltoday.co.uk/health/concerns-vulnerable-hertfordshire-residents-academics-warn-national-complacency-towards-flu-2954226) *27 August 2020*
