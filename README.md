@@ -1,4 +1,4 @@
-# flu_vaccination
+# UK flu jab rates prompt complacency warning
 
 In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53889184) that levels of flu vaccination among the most vulnerable have dropped in recent years.
 
@@ -20,6 +20,12 @@ The data and background methodology released to partners is available here:
 * Scotland data: https://drive.google.com/file/d/1wyKRiyaoLyZa3xsUv1o0BbQ67KMVLmKd/view?usp=sharing
 * Wales data: https://drive.google.com/file/d/10wJVLHQx6qpIEY1RqcPmqw0OLpXIfAaT/view?usp=sharing
 * Northern Ireland data: https://docs.google.com/spreadsheets/d/1GhQWPiUx-4FCXuQdkaQ4Cg8zxwpw7nT5Zu7EuwvC1jk/edit?usp=sharing
+
+## Interviews and quotes
+
+* Jeanne Jarvis-Gibson, student and long-term Covid sufferer
+* Dr Tonia Thomas, project manager, University of Oxford's Vaccine Knowledge Trust 
+
 
 ## Partner usage
 
