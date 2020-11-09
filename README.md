@@ -15,11 +15,11 @@ The story was widely used within the BBC, running as the main story on the healt
 ## Data and sources
 
 The data and background methodology released to partners is available here:
-* Background: https://docs.google.com/document/d/1f-8RJkTknLvpjz5p7nXn53pqzqzVj6GF1zFmOIuqeL0/edit?usp=sharing
-* England data: https://docs.google.com/spreadsheets/d/1MCDR0bJ0VFjEVOpTUASVyfLjagl31TfEz4eAEt_yTqo/edit?usp=sharing
-* Scotland data: https://drive.google.com/file/d/1wyKRiyaoLyZa3xsUv1o0BbQ67KMVLmKd/view?usp=sharing
-* Wales data: https://drive.google.com/file/d/10wJVLHQx6qpIEY1RqcPmqw0OLpXIfAaT/view?usp=sharing
-* Northern Ireland data: https://docs.google.com/spreadsheets/d/1GhQWPiUx-4FCXuQdkaQ4Cg8zxwpw7nT5Zu7EuwvC1jk/edit?usp=sharing
+* Background [here:](https://docs.google.com/document/d/1f-8RJkTknLvpjz5p7nXn53pqzqzVj6GF1zFmOIuqeL0/edit?usp=sharing)
+* England data [here:](https://docs.google.com/spreadsheets/d/1MCDR0bJ0VFjEVOpTUASVyfLjagl31TfEz4eAEt_yTqo/edit?usp=sharing)
+* Scotland data [here:](https://drive.google.com/file/d/1wyKRiyaoLyZa3xsUv1o0BbQ67KMVLmKd/view?usp=sharing)
+* Wales data [here:](https://drive.google.com/file/d/10wJVLHQx6qpIEY1RqcPmqw0OLpXIfAaT/view?usp=sharing)
+* Northern Ireland data [here:](https://docs.google.com/spreadsheets/d/1GhQWPiUx-4FCXuQdkaQ4Cg8zxwpw7nT5Zu7EuwvC1jk/edit?usp=sharing)
 
 ## Interviews and quotes
 
@@ -55,6 +55,7 @@ Stories written by partners based on this research included:
 * Wigan Today: [Concern at five-year fall in at-risk Wigan adults getting flu jab](https://www.wigantoday.net/health/concern-five-year-fall-risk-wigan-adults-getting-flu-jab-2954143) *27 August 2020*
 * Windsor Express: [Residents urged to get flu vaccine as data reveals falling take-up rates](https://www.windsorexpress.co.uk/gallery/maidenhead/161271/residents-urged-to-get-flu-vaccine-as-data-reveals-falling-take-up-rates.html) *28 August 2020*
 * Yorkshire Post [Concerns about the flu jab must be addressed if Government is to double uptake this winter](https://www.yorkshirepost.co.uk/health/concerns-about-flu-jab-must-be-addressed-if-government-double-uptake-winter-2953827) *27 August 2020*
+* Chroncile Live: [Asda cancels flu jab appointments at Gateshead store blaming 'increased demand'](https://www.chroniclelive.co.uk/news/north-east-news/asda-gateshead-flu-jab-vaccine-19228388) *7 November 2020*
 
 ## Related repos
 
