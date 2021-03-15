@@ -1,14 +1,14 @@
 # UK flu jab rates prompt complacency warning
 
-In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53889184) that levels of flu vaccination among the most vulnerable have dropped in recent years.
+In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53889184) that levels of flu vaccination among the most vulnerable had dropped in recent years.
 
-Experts urged members of the public against complacency and to take the jab if they have health conditions that could make them more vulnerable to flu, which kills thousands of people a year.
+Experts urged members of the public against complacency and to take the jab if they had health conditions that could make them more vulnerable to flu, which kills thousands of people a year.
 
-The government has announced it is planning to double the number of people vaccinated for flu this winter, amid concerns the flu season could redouble pressure on a covid-hit NHS.
+The government had announced it was planning to double the number of people vaccinated for flu this winter, amid concerns the flu season could redouble pressure on a Covid-19-hit NHS.
 
-Our research found the take-up rate among people in vulnerable groups eligible for a free jab has declined.
+Our research found the take-up rate among people in vulnerable groups eligible for a free jab had declined.
 
-Local authorities in England saw an average 45% of people with serious health conditions under 65 take up the offer of a free vaccine last winter, data shows. That represents a drop from 50% in 2015.
+Local authorities in England saw an average 45% of people with serious health conditions under 65 take up the offer of a free vaccine last winter, data showed. That represented a drop from 50% in 2015.
 
 The story was widely used within the BBC, running as the main story on the health page of the BBC website. Bulletins included BBC Breakfast, the News Channel, Radio 2, Radio 4, and Radio 5. Coverage included an on-air interview with Health Secretary Matt Hancock, the Royal College of GPs, and the MS Society. It was the lead story on BBC East Midlands Today and BBC Look North.
 
