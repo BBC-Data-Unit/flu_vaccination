@@ -55,7 +55,7 @@ Stories written by partners based on this research included:
 * Wigan Today: [Concern at five-year fall in at-risk Wigan adults getting flu jab](https://www.wigantoday.net/health/concern-five-year-fall-risk-wigan-adults-getting-flu-jab-2954143) *27 August 2020*
 * Windsor Express: [Residents urged to get flu vaccine as data reveals falling take-up rates](https://www.windsorexpress.co.uk/gallery/maidenhead/161271/residents-urged-to-get-flu-vaccine-as-data-reveals-falling-take-up-rates.html) *28 August 2020*
 * Yorkshire Post [Concerns about the flu jab must be addressed if Government is to double uptake this winter](https://www.yorkshirepost.co.uk/health/concerns-about-flu-jab-must-be-addressed-if-government-double-uptake-winter-2953827) *27 August 2020*
-* Chroncile Live: [Asda cancels flu jab appointments at Gateshead store blaming 'increased demand'](https://www.chroniclelive.co.uk/news/north-east-news/asda-gateshead-flu-jab-vaccine-19228388) *7 November 2020*
+* Chronicle Live: [Asda cancels flu jab appointments at Gateshead store blaming 'increased demand'](https://www.chroniclelive.co.uk/news/north-east-news/asda-gateshead-flu-jab-vaccine-19228388) *7 November 2020*
 
 ## Related repos
 
